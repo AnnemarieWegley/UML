@@ -1,5 +1,5 @@
 UML
 ===
-![alt tag](https://www.dropbox.com/s/dg7p0baxjasnv7d/CardGame.jpg)
+<script type="text/javascript" src="https://www.draw.io/embed.js?s=arrows"></script>
 
 Diagram of WarKarma Model
